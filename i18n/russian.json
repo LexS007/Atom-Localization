@@ -1,0 +1,206 @@
+{
+  "menu":{
+    "Atom":{
+      "value":"Atom",
+      "submenu":{
+        "About Atom":{"value":"Об Atom"},
+        "View License":{"value":"Посмотреть Лицензию"},
+        "Preferences...":{"value":"Настройки..."},
+        "Open Your Config":{"value":"Задать пользовательские параметры"},
+        "Open Your Init Script":{"value":"Задать свой скрипт инициализации"},
+        "Open Your Keymap":{"value":"Задать свои горячие клавиши"},
+        "Open Your Snippets":{"value":"Задать свои фрагменты кода"},
+        "Open Your Stylesheet":{"value":"Задать свои стили"},
+        "Install Shell Commands":{"value":"Установить команды Shell"},
+        "Hide Atom":{"value":"Скрыть Atom"},
+        "Hide Others":{"value":"Скрыть остальные"},
+        "Show All":{"value":"Показать все"},
+        "Quit":{"value":"Завершить Atom"},
+        "Restart and Install Update":{"value":"Перезапустить и установить обновления"},
+        "Check for Update":{"value":"Проверить обновления"},
+        "Downloading Update":{"value":"Загрузить обновления"}
+      }
+    },
+    "File":{
+      "value":"Файл",
+      "submenu":{
+        "New Window":{"value":"Новое окно"},
+        "New File":{"value":"Новый файл"},
+        "Open...":{"value":"Открыть..."},
+        "Reopen Last Item":{"value":"Последний открытый"},
+        "Save":{"value":"Сохранить"},
+        "Save As...":{"value":"Сохранить как..."},
+        "Save All":{"value":"Сохранить все"},
+        "Close Tab":{"value":"Закрыть вкладку"},
+        "Close Pane":{"value":"Закрыть панель"},
+        "Close Window":{"value":"Закрыть окно"}
+      }
+    },
+    "Edit":{
+      "value":"Правка",
+      "submenu":{
+        "Undo":{"value":"Отменить"},
+        "Redo":{"value":"Повторить"},
+        "Cut":{"value":"Вырезать"},
+        "Copy":{"value":"Копировать"},
+        "Copy Path":{"value":"Копировать путь"},
+        "Paste":{"value":"Вставить"},
+        "Select All":{"value":"Выделить всё"},
+        "Toggle Comments":{"value":"Закоментировать"},
+        "Lines":{
+          "value":"Строки",
+          "submenu":{
+            "Indent":{"value":"Увеличить отступ"},
+            "Outdent":{"value":"Уменьшить отступ"},
+            "Auto Indent":{"value":"Автоотступ"},
+            "Move Line Up":{"value":"Переместить строку вверх"},
+            "Move Line Down":{"value":"Переместить строку вниз"},
+            "Duplicate Lines":{"value":"Повторить строки"},
+            "Delete Line":{"value":"Удалить строку"},
+            "Join Lines":{"value":"Соединить строки"}
+          }
+        },
+        "Text":{
+          "value":"Текст",
+          "submenu":{
+            "Upper Case":{"value":"Прописные буквы"},
+            "Lower Case":{"value":"Строчные буквы"},
+            "Delete to End of Word":{"value":"Удалить до конца слова"},
+            "Delete Line":{"value":"Удалить строку"},
+            "Transpose":{"value":"Инвертировать"}
+          }
+        },
+        "Folding":{
+          "value":"Сворачивание кода",
+          "submenu":{
+            "Fold":{"value":"Свернуть"},
+            "Unfold":{"value":"Развернуть"},
+            "Unfold All":{"value":"Развернуть все"},
+            "Fold All":{"value":"Свернуть все"},
+            "Fold Level 1":{"value":"Свернуть 1-й уровень"},
+            "Fold Level 2":{"value":"Свернуть 2-й уровень"},
+            "Fold Level 3":{"value":"Свернуть 3-й уровень"},
+            "Fold Level 4":{"value":"Свернуть 4-й уровень"},
+            "Fold Level 5":{"value":"Свернуть 5-й уровень"},
+            "Fold Level 6":{"value":"Свернуть 6-й уровень"},
+            "Fold Level 7":{"value":"Свернуть 7-й уровень"},
+            "Fold Level 8":{"value":"Свернуть 8-й уровень"},
+            "Fold Level 9":{"value":"Свернуть 9-й уровень"}
+          }
+        },
+        "Select Encoding":{"value":"Выбрать кодировку"},
+        "Go to Line":{"value":"Перейти к строке"},
+        "Reflow Paragraph":{"value":"Перекомпоновать абзац"},
+        "Reflow Selection":{"value":"Перекомпоновать выделенное"},
+        "Bookmark":{
+          "value":"Закладки",
+          "submenu":{
+            "View All":{"value":"Просмотреть все"},
+            "Toggle Bookmark":{"value":"Добавить/удалить закладку"},
+            "Jump to Next Bookmark":{"value":"Перейти к слудующей закладке"},
+            "Jump to Previous Bookmark":{"value":"Перейти к предыдущей закладке"}
+          }
+        },
+        "Select Grammar":{"value":"Выбрать синтаксис"}
+      }
+    },
+    "Selection":{
+      "value":"Выделение",
+      "submenu":{
+        "Add Selection Above":{"value":"Добавить предыдущую строку"},
+        "Add Selection Below":{"value":"Добавить следующую строку"},
+        "Single Selection":{"value":"Отменить множественное выделение"},
+        "Split into Lines":{"value":"Разделить по строкам"},
+        "Select to Top":{"value":"Выделить до начала"},
+        "Select to Bottom":{"value":"Выделить до конца"},
+        "Select Line":{"value":"Выделить строку"},
+        "Select Word":{"value":"Выделить слово"},
+        "Select to Beginning of Word":{"value":"Выделить до начала слова"},
+        "Select to Beginning of Line":{"value":"Выделить до начала строки"},
+        "Select to First Character of Line":{"value":"Выделить до первого символа в строке"},
+        "Select to End of Word":{"value":"Выделить до конца слова"},
+        "Select to End of Line":{"value":"Выделить до конца строки"}
+      }
+    },
+    "Find":{
+      "value":"Поиск",
+      "submenu":{
+        "Find in Buffer":{"value":"Найти в файле"},
+        "Replace in Buffer":{"value":"Заменить в файле"},
+        "Select Next":{"value":"Выделить следующее"},
+        "Select All":{"value":"Выделить всё"},
+        "Toggle Find in Buffer":{"value":"Панель поиска"},
+        "Find in Project":{"value":"Найти в проекте"},
+        "Toggle Find in Project":{"value":"Поиск по проекту"},
+        "Find Next":{"value":"Найти следующий"},
+        "Find Previous":{"value":"Найти предыдущее"},
+        "Replace Next":{"value":"Заменить следующее"},
+        "Replace All":{"value":"Заменить все"},
+        "Find Buffer":{"value":"Найти открытый файл"},
+        "Find File":{"value":"Найти файл"},
+        "Find Modified File":{"value":"Найти измененные файл"}
+      }
+    },
+    "View":{
+      "value":"Вид",
+      "submenu":{
+        "Reload":{"value":"Перезагрузить"},
+        "Toggle Full Screen":{"value":"Полноэкранный режим"},
+        "Panes":{
+          "value":"Панели",
+          "submenu":{
+            "Split Up":{"value":"Панель сверху"},
+            "Split Down":{"value":"Панель снизу"},
+            "Split Left":{"value":"Панель слева"},
+            "Split Right":{"value":"Панель справа"},
+            "Focus Next Pane":{"value":"Следующая панель"},
+            "Focus Previous Pane":{"value":"Предыдущая панель"},
+            "Focus Pane Above":{"value":"Панель выше"},
+            "Focus Pane Below":{"value":"Панель ниже"},
+            "Focus Pane On Left":{"value":"Панель левее"},
+            "Focus Pane On Right":{"value":"Панель правее"},
+            "Close Pane":{"value":"Закрыть панель"}
+          }
+        },
+        "Developer":{
+          "value":"Разработчик",
+          "submenu":{
+            "Open In Dev Mode...":{"value":"Отркрыть в режиме разработчика..."},
+            "Run Atom Specs":{"value":"Запустить полное тестирование"},
+            "Run Package Specs":{"value":"Запустить тестирование пакетов"},
+            "Toggle Developer Tools":{"value":"Инструменты разработчика"}
+          }
+        },
+        "Toggle Soft Wrap":{"value":"Вписать текст в размеры панели"},
+        "Toggle Command Palette":{"value":"Командная панель"},
+        "Toggle Tree View":{"value":"Дерево файлов и каталогов"},
+        "Toggle Tree Side":{"value":"Дерево файлов и каталогов слева/справа"}
+      }
+    },
+    "Packages":{
+      "value":"Пакеты"
+    },
+    "Window":{
+      "value":"Окно",
+      "submenu":{
+        "Minimize":{"value":"Свернуть"},
+        "Zoom":{"value":"Масштаб"},
+        "Bring All to Front":{"value":"Переместить все на передний план"}
+      }
+    },
+    "Help":{
+      "value":"Справка",
+      "submenu":{
+        "Terms of Use":{"value":"Условия использования"},
+        "Documentation":{"value":"Документация"},
+        "Roadmap":{"value":"План развития"},
+        "Frequently Asked Questions":{"value":"Часто задаваемые вопросы"},
+        "Community Discussions":{"value":"Обсуждения в сообществе"},
+        "Report Issue":{"value":"Cообщить о проблеме"},
+        "Search Issues":{"value":"Поиск проблемы"},
+        "Send Feedback":{"value":"Отправить отзыв"},
+        "Release Notes":{"value":"Примечания к выпуску"}
+      }
+    }
+  }
+}
