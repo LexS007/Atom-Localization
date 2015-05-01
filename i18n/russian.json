@@ -97,7 +97,7 @@
           "submenu":{
             "View All":{"value":"Просмотреть все"},
             "Toggle Bookmark":{"value":"Добавить/удалить закладку"},
-            "Jump to Next Bookmark":{"value":"Перейти к слудующей закладке"},
+            "Jump to Next Bookmark":{"value":"Перейти к следующей закладке"},
             "Jump to Previous Bookmark":{"value":"Перейти к предыдущей закладке"}
           }
         },
@@ -196,7 +196,7 @@
         "Roadmap":{"value":"План развития"},
         "Frequently Asked Questions":{"value":"Часто задаваемые вопросы"},
         "Community Discussions":{"value":"Обсуждения в сообществе"},
-        "Report Issue":{"value":"Cообщить о проблеме"},
+        "Report Issue":{"value":"Сообщить о проблеме"},
         "Search Issues":{"value":"Поиск проблемы"},
         "Send Feedback":{"value":"Отправить отзыв"},
         "Release Notes":{"value":"Примечания к выпуску"}
