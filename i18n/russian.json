@@ -46,7 +46,7 @@
         "Copy Path":{"value":"Копировать путь"},
         "Paste":{"value":"Вставить"},
         "Select All":{"value":"Выделить всё"},
-        "Toggle Comments":{"value":"Закоментировать"},
+        "Toggle Comments":{"value":"Закомментировать"},
         "Lines":{
           "value":"Строки",
           "submenu":{
@@ -165,7 +165,7 @@
         "Developer":{
           "value":"Разработчик",
           "submenu":{
-            "Open In Dev Mode...":{"value":"Отркрыть в режиме разработчика..."},
+            "Open In Dev Mode...":{"value":"Открыть в режиме разработчика..."},
             "Run Atom Specs":{"value":"Запустить полное тестирование"},
             "Run Package Specs":{"value":"Запустить тестирование пакетов"},
             "Toggle Developer Tools":{"value":"Инструменты разработчика"}
